@@ -1,0 +1,267 @@
+C:\Users\Orchiq\Desktop\PIN整\PIN\bin\Debug\PIN.exe.config
+C:\Users\Orchiq\Desktop\PIN整\PIN\bin\Debug\PIN.exe
+C:\Users\Orchiq\Desktop\PIN整\PIN\bin\Debug\PIN.pdb
+C:\Users\Orchiq\Desktop\PIN整\PIN\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Orchiq\Desktop\PIN整\PIN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.csprojResolveAssemblyReference.cache
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.Properties.Resources.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.csproj.GenerateResource.Cache
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.exe
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.pdb
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UILogin.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIMoreAdminInfo.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIMoreMerchantInfo.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIMoreStudentInfo.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIModifyPassword.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIReport.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UILocate.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIDetails.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIExplore.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIMap.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UISetting.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIRegister.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UINomalSettings.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UISendMessage.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIhomepage.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIuserpage.resources
+G:\PIN整\PIN\bin\Debug\PIN.exe.config
+G:\PIN整\PIN\obj\Debug\PIN.exe
+G:\PIN整\PIN\obj\Debug\PIN.pdb
+G:\PIN整\PIN\obj\Debug\PIN.csprojResolveAssemblyReference.cache
+G:\PIN整\PIN\obj\Debug\PIN.UIClassify.resources
+G:\PIN整\PIN\obj\Debug\PIN.UIModifyPassword.resources
+G:\PIN整\PIN\obj\Debug\PIN.TestDBCon.resources
+G:\PIN整\PIN\obj\Debug\PIN.UIReport.resources
+G:\PIN整\PIN\obj\Debug\PIN.UIMoreAdminInfo.resources
+G:\PIN整\PIN\obj\Debug\PIN.UIMoreMerchantInfo.resources
+G:\PIN整\PIN\obj\Debug\PIN.UILocate.resources
+G:\PIN整\PIN\obj\Debug\PIN.UIComment.resources
+G:\PIN整\PIN\obj\Debug\PIN.UIDetails.resources
+G:\PIN整\PIN\obj\Debug\PIN.UIExplore.resources
+G:\PIN整\PIN\obj\Debug\PIN.Properties.Resources.resources
+G:\PIN整\PIN\obj\Debug\PIN.UIFriends.resources
+G:\PIN整\PIN\obj\Debug\PIN.UIMap.resources
+G:\PIN整\PIN\obj\Debug\PIN.UISetting.resources
+G:\PIN整\PIN\obj\Debug\PIN.UIMoreStudentInfo.resources
+G:\PIN整\PIN\obj\Debug\PIN.UIRegister.resources
+G:\PIN整\PIN\obj\Debug\PIN.UIhomepage.resources
+G:\PIN整\PIN\obj\Debug\PIN.UIuserpage.resources
+G:\PIN整\PIN\obj\Debug\PIN.UILogin.resources
+G:\PIN整\PIN\obj\Debug\PIN.UINomalSettings.resources
+G:\PIN整\PIN\obj\Debug\PIN.UIShareInformation.resources
+G:\PIN整\PIN\obj\Debug\PIN.UISendMessage.resources
+G:\PIN整\PIN\obj\Debug\PIN.csproj.GenerateResource.Cache
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIatFriends.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UISearch.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIChooseFriends.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UITestDBCon.resources
+F:\1大三下\PIN整\PIN\bin\Debug\PIN.exe.config
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.exe
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.pdb
+F:\1大三下\PIN整\PIN\bin\Debug\PIN.exe
+F:\1大三下\PIN整\PIN\bin\Debug\PIN.pdb
+F:\1大三下\PIN整\PIN\bin\Debug\DevComponents.DotNetBar2.dll
+F:\1大三下\PIN整\PIN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.csprojResolveAssemblyReference.cache
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UISearch.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UIClassify.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UIChooseFriends.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.ShareWithFriends.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UIModifyPassword.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UITestDBCon.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UIReport.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UIMoreAdminInfo.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UIMoreMerchantInfo.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UILocate.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UIDetails.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UIExplore.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.Properties.Resources.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UIatFriends.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UIMap.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UISetting.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UIMoreStudentInfo.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UIRegister.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UIhomepage.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UIuserpage.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UILogin.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UINomalSettings.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UISendMessage.resources
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.csproj.GenerateResource.Cache
+F:\1大三下\PIN整\PIN\obj\Debug\PIN.UIOtherHomepage.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\bin\Debug\PIN.exe.config
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.exe
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.pdb
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\bin\Debug\PIN.exe
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\bin\Debug\PIN.pdb
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.csprojResolveAssemblyReference.cache
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIOtherHomepage.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UISearch.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIClassify.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIChooseFriends.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.ShareWithFriends.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIModifyPassword.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UITestDBCon.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIReport.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIMoreAdminInfo.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIMoreMerchantInfo.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UILocate.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIDetails.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIExplore.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.Properties.Resources.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIatFriends.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIMap.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UISetting.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIMoreStudentInfo.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIRegister.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIhomepage.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIuserpage.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UILogin.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UINomalSettings.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UISendMessage.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.csproj.GenerateResource.Cache
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIFansList.resources
+C:\Users\Yung Jay\Desktop\PIN整new\PIN\obj\Debug\PIN.UIFollowList.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\bin\Debug\PIN.exe.config
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.exe
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.pdb
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\bin\Debug\PIN.exe
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\bin\Debug\PIN.pdb
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.csprojResolveAssemblyReference.cache
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIOtherHomepage.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UISearch.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIChooseFriends.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIFansList.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIFollowList.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIModifyPassword.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UITestDBCon.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIReport.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIMoreAdminInfo.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIMoreMerchantInfo.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UILocate.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIDetails.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIExplore.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.Properties.Resources.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIatFriends.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIMap.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UISetting.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIMoreStudentInfo.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIRegister.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIhomepage.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIuserpage.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UILogin.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UINomalSettings.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UISendMessage.resources
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.csproj.GenerateResource.Cache
+C:\Users\Orchiq\Desktop\PIN整new1\PIN\obj\Debug\PIN.UIShareWithFriends.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIOtherHomepage.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIFansList.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIFollowList.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN\obj\Debug\PIN.UIShareWithFriends.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\bin\Debug\PIN.exe.config
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.exe
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.pdb
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.csprojResolveAssemblyReference.cache
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIOtherHomepage.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIDetails.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UISearch.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIChooseFriends.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIFansList.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIFollowList.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIShareWithFriends.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIModifyPassword.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UITestDBCon.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIReport.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIMoreAdminInfo.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIMoreMerchantInfo.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UILocate.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIExplore.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.Properties.Resources.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIatFriends.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIMap.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UISetting.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIMoreStudentInfo.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIRegister.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIhomepage.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UIuserpage.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UILogin.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UINomalSettings.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.UISendMessage.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN\obj\Debug\PIN.csproj.GenerateResource.Cache
+C:\Users\Yung Jay\Desktop\PIN整\PIN\bin\Debug\PIN.exe
+C:\Users\Yung Jay\Desktop\PIN整\PIN\bin\Debug\PIN.pdb
+C:\Users\Yung Jay\Desktop\PIN整\PIN\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Yung Jay\Desktop\PIN整\PIN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\bin\Debug\PIN.exe.config
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.exe
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.pdb
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.csprojResolveAssemblyReference.cache
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIOtherHomepage.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIDetails.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UISearch.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIChooseFriends.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIFansList.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIFollowList.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIShareWithFriends.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIModifyPassword.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UITestDBCon.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIMoreAdminInfo.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIMoreMerchantInfo.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UILocate.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIExplore.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.Properties.Resources.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIatFriends.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIMap.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UISetting.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIMoreStudentInfo.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIRegister.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIhomepage.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIuserpage.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UILogin.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UINomalSettings.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UISendMessage.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIAdmin.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIReportReason.resources
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.csproj.GenerateResource.Cache
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\bin\Debug\PIN.exe
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\bin\Debug\PIN.pdb
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Orchiq\Desktop\PIN整\PIN整\PIN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\bin\Debug\PIN.exe.config
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.exe
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.pdb
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\bin\Debug\PIN.exe
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\bin\Debug\PIN.pdb
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.csprojResolveAssemblyReference.cache
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIOtherHomepage.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIDetails.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UISearch.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIChooseFriends.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIFansList.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIFollowList.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIShareWithFriends.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIModifyPassword.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UITestDBCon.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIMoreAdminInfo.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIMoreMerchantInfo.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UILocate.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIExplore.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.Properties.Resources.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIatFriends.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIMap.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UISetting.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIMoreStudentInfo.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIRegister.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIhomepage.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIuserpage.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UILogin.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UINomalSettings.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UISendMessage.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIAdmin.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.UIReportReason.resources
+C:\Users\Yung Jay\Desktop\PIN整\PIN整\PIN\obj\Debug\PIN.csproj.GenerateResource.Cache

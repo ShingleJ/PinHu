@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\PIN.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\PIN.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\PIN.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\PIN.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{85AA676C-2060-4BBF-9361-EDCD34AAE8EA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PIN</RootNamespace>
+    <AssemblyName>PIN</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>..\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="界面层\发现\UIDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\发现\UIDetails.designer.cs">
+      <DependentUpon>UIDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\好友\UIFollowList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\好友\UIFollowList.Designer.cs">
+      <DependentUpon>UIFollowList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\好友\UIFansList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\好友\UIFansList.Designer.cs">
+      <DependentUpon>UIFansList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\主页\UIOtherHomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\主页\UIOtherHomepage.Designer.cs">
+      <DependentUpon>UIOtherHomepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="事件层\发布信息\CommentClass.cs" />
+    <Compile Include="事件层\个人信息\ImproveAdministratorInformationClass.cs" />
+    <Compile Include="事件层\个人信息\ImproveMerchantInformationClass.cs" />
+    <Compile Include="界面层\发现\UISearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\发现\UISearch.Designer.cs">
+      <DependentUpon>UISearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\发布\UIChooseFriends.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\发布\UIChooseFriends.Designer.cs">
+      <DependentUpon>UIChooseFriends.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\好友\UIShareWithFriends.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\好友\UIShareWithFriends.Designer.cs">
+      <DependentUpon>UIShareWithFriends.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\注册登录\UIModifyPasswordcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\注册登录\UIModifyPasswordcs.designer.cs">
+      <DependentUpon>UIModifyPasswordcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\注册登录\UITestDBCon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\注册登录\UITestDBCon.Designer.cs">
+      <DependentUpon>UITestDBCon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\主页\个人信息\UIMoreAdminInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\主页\个人信息\UIMoreAdminInfo.Designer.cs">
+      <DependentUpon>UIMoreAdminInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\主页\个人信息\UIMoreMerchantInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\主页\个人信息\UIMoreMerchantInfo.Designer.cs">
+      <DependentUpon>UIMoreMerchantInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\发布\UILocate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\发布\UILocate.Designer.cs">
+      <DependentUpon>UILocate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\发布\UIFaceImageList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="事件层\发布信息\ClassifyShow.cs" />
+    <Compile Include="事件层\个人信息\ImproveStudentInformationClass.cs" />
+    <Compile Include="事件层\注册登录\ModifyPasswordClass.cs" />
+    <Compile Include="事件层\注册登录\LoginClass.cs" />
+    <Compile Include="事件层\信息存储\SaveBasedSort.cs" />
+    <Compile Include="事件层\发布信息\SendMessageClass.cs" />
+    <Compile Include="数据层\DTConnection.cs" />
+    <Compile Include="界面层\发现\UIExplore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\发现\UIExplore.Designer.cs">
+      <DependentUpon>UIExplore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="界面层\发布\UIatFriends.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\发布\UIatFriends.designer.cs">
+      <DependentUpon>UIatFriends.cs</DependentUpon>
+    </Compile>
+    <Compile Include="事件层\信息匹配\KeySearch.cs" />
+    <Compile Include="事件层\注册登录\RegisterClass.cs" />
+    <Compile Include="界面层\发布\UIMap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\发布\UIMap.Designer.cs">
+      <DependentUpon>UIMap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\主页\设置\UISetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\主页\设置\UISetting.designer.cs">
+      <DependentUpon>UISetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\主页\个人信息\UIMoreStudentInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\主页\个人信息\UIMoreStudentInfo.designer.cs">
+      <DependentUpon>UIMoreStudentInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\注册登录\UIRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\注册登录\UIRegister.Designer.cs">
+      <DependentUpon>UIRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\主页\UIhomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\主页\UIhomepage.designer.cs">
+      <DependentUpon>UIhomepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\好友\UIuserpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\好友\UIuserpage.designer.cs">
+      <DependentUpon>UIuserpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\注册登录\UILogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\注册登录\UILogin.Designer.cs">
+      <DependentUpon>UILogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\主页\设置\UINomalSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\主页\设置\UINomalSettings.designer.cs">
+      <DependentUpon>UINomalSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\发布\UISendMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\发布\UISendMessage.designer.cs">
+      <DependentUpon>UISendMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="数据层\DTParameters.cs" />
+    <Compile Include="界面层\管理员\UIAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\管理员\UIAdmin.designer.cs">
+      <DependentUpon>UIAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="界面层\管理员\UIReportReason.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="界面层\管理员\UIReportReason.Designer.cs">
+      <DependentUpon>UIReportReason.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="界面层\主页\UIOtherHomepage.resx">
+      <DependentUpon>UIOtherHomepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\发现\UIDetails.resx">
+      <DependentUpon>UIDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\发现\UISearch.resx">
+      <DependentUpon>UISearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\发布\UIChooseFriends.resx">
+      <DependentUpon>UIChooseFriends.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\好友\UIFansList.resx">
+      <DependentUpon>UIFansList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\好友\UIFollowList.resx">
+      <DependentUpon>UIFollowList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\好友\UIShareWithFriends.resx">
+      <DependentUpon>UIShareWithFriends.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\注册登录\UIModifyPasswordcs.resx">
+      <DependentUpon>UIModifyPasswordcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\注册登录\UITestDBCon.resx">
+      <DependentUpon>UITestDBCon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\主页\个人信息\UIMoreAdminInfo.resx">
+      <DependentUpon>UIMoreAdminInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\主页\个人信息\UIMoreMerchantInfo.resx">
+      <DependentUpon>UIMoreMerchantInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\发布\UILocate.resx">
+      <DependentUpon>UILocate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\发现\UIExplore.resx">
+      <DependentUpon>UIExplore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="界面层\发布\UIatFriends.resx">
+      <DependentUpon>UIatFriends.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\发布\UIMap.resx">
+      <DependentUpon>UIMap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\主页\设置\UISetting.resx">
+      <DependentUpon>UISetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\主页\个人信息\UIMoreStudentInfo.resx">
+      <DependentUpon>UIMoreStudentInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\注册登录\UIRegister.resx">
+      <DependentUpon>UIRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\主页\UIhomepage.resx">
+      <DependentUpon>UIhomepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\好友\UIuserpage.resx">
+      <DependentUpon>UIuserpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\注册登录\UILogin.resx">
+      <DependentUpon>UILogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\主页\设置\UINomalSettings.resx">
+      <DependentUpon>UINomalSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\发布\UISendMessage.resx">
+      <DependentUpon>UISendMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\管理员\UIAdmin.resx">
+      <DependentUpon>UIAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="界面层\管理员\UIReportReason.resx">
+      <DependentUpon>UIReportReason.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+    <Folder Include="公共类\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="face.bmp" />
+    <Content Include="事件层\地图模块\LoadLocate.html" />
+    <Content Include="事件层\地图模块\newmap.html" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
